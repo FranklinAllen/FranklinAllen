@@ -1,0 +1,7 @@
+Large
+1200px 750px
+alt="zoom" width="1200" height="750"
+
+Small
+360px 225px
+alt="zoom" width="360" height="225"
